@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("From feature_nikhil 26march2026");
-        System.out.println("just checking in feature_branch 26march2026");
-
-        System.out.println("NEW CHANGES ADDED");
+        for (int i = 0; i <100 ; i++) {
+            System.out.println("Hello");
+            System.out.println("Loops");
+        }
     }
 }
